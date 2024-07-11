@@ -1,2 +1,16 @@
-# Module-5-Assessment-1
-A visually engaging Solar System simulation created with HTML and CSS. The project features a central Sun and eight orbiting planets, each with animated orbits and clickable links for more information. The design uses a space-themed background and animations to illustrate planetary movements.
+# Solar System Simulation
+
+A simple Solar System simulation using HTML and CSS. This project features a central Sun and eight orbiting planets, with animations to illustrate their orbits and a space-themed background.
+
+## Features
+- Animated planet orbits
+- Clickable links for each planet
+- Space-themed background image
+
+## Technologies
+- HTML
+- CSS
+
+## Installation
+Clone this repository and open `index.html` in your browser to view the simulation.
+
